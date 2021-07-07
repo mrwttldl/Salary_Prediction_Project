@@ -1,6 +1,6 @@
 ## :baseball:  Salary_Prediction_Project
 
-![](https://www.collinsdictionary.com/images/full/baseball_557405302_1000.jpg) 
+![](https://images.ctfassets.net/cnu0m8re1exe/3DYycoAOSpcFJz76y306Cr/8e4201e059878122a63ccc174baa5617/Baseball.jpg) 
 
 
  ## :file_folder:  Business Problem
