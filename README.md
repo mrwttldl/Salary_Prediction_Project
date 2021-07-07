@@ -11,6 +11,8 @@ used in the 1988 ASA Graphics Section Poster Session.Salary data originally take
 
 I want to develop a machine learning project to estimate the salaries of baseball players whose salary information and career statistics for 1986 are shared.
 
+Dataset source : https://www.kaggle.com/floser/hitters
+
 
 ## :white_check_mark:  Dataset Information
 
